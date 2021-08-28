@@ -1,0 +1,5 @@
+export const fontPrimary = "'Montserrat', sans-serif;"
+export const fontSecondary = "'Overpass', sans-serif;"
+export const colorPrimary = "#fb9b19"
+export const colorBlack = "#2c2d32"
+export const colorWhite = "#fff"
